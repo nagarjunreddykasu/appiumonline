@@ -65,7 +65,8 @@ public class AlertsTest extends Base{
 
 //email: nagarjun.sdet@gmail.com
 
-
+//GitHub Repository
+//https://github.com/nagarjunreddykasu/appiumonline/tree/master/AppiumProject/src/test/java/suite/AppiumProject
 
 
 
