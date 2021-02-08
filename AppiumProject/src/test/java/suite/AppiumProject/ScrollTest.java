@@ -26,3 +26,9 @@ public class ScrollTest extends Base{
 
 
 // new UiScrollable(new UiSelector()).scrollIntoView(text(\"WebView\"))
+
+//UIAutomator
+
+//findElementByAndroidUIAutomator("");
+
+//findElement(MobileBy.AndroidUIAutomator(""))
