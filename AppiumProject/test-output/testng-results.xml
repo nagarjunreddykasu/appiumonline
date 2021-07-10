@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28030" started-at="2021-01-29T15:25:36Z" finished-at="2021-01-29T15:26:04Z">
+  <suite name="Default suite" duration-ms="104086" started-at="2021-03-05T14:17:07Z" finished-at="2021-03-05T14:18:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28030" started-at="2021-01-29T15:25:36Z" finished-at="2021-01-29T15:26:04Z">
-      <class name="suite.AppiumProject.AlertsTest">
-        <test-method status="PASS" signature="TC_AlertsTest()[pri:0, instance:suite.AppiumProject.AlertsTest@a67c67e]" name="TC_AlertsTest" duration-ms="27974" started-at="2021-01-29T20:55:36Z" finished-at="2021-01-29T20:56:04Z">
+    <test name="Default test" duration-ms="104086" started-at="2021-03-05T14:17:07Z" finished-at="2021-03-05T14:18:51Z">
+      <class name="advanced.WebViewHandle">
+        <test-method status="PASS" signature="TC_WebViewHandle()[pri:0, instance:advanced.WebViewHandle@4e1d422d]" name="TC_WebViewHandle" duration-ms="104038" started-at="2021-03-05T19:47:07Z" finished-at="2021-03-05T19:48:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_AlertsTest -->
-      </class> <!-- suite.AppiumProject.AlertsTest -->
+        </test-method> <!-- TC_WebViewHandle -->
+      </class> <!-- advanced.WebViewHandle -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
